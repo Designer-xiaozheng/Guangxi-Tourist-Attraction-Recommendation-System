@@ -2,7 +2,9 @@
 
 基于Vue.js+django+MySQL开发，2026年高分JAVA成品毕业设计，附带往届论文、启动教程、讲解视频、二次开发教程和配套安装包文件，提供演示录屏，提供答疑。
 
-#### 系统录屏：https://www.bilibili.com/video/BV18p7j6VEDK
+项目编号：26002
+
+#### 系统录屏：https://www.bilibili.com/video/BV1rG7p65EWX
 
 #### 启动教程/讲解视频/二次开发教程：https://www.bilibili.com/video/BV1uE3E6AEMh
 
